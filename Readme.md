@@ -1,2 +1,2 @@
-Addning new readme file to TestProject
-Ne line added
+Adding new readme file to TestProject
+New line added
